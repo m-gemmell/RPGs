@@ -1,0 +1,48 @@
+# The Ice Worm
+
+_Monster: Devourer, to consume people_
+
+The Juvenile Ice worm looks like a giant earthworm with a dark purple colouration.
+However, it has some traits that are belies this appearance.
+
+It is massive at 10 metres long with a circumference of 0.5 metres.
+It is covered in thousands of thick needle like hairs of diamond.
+Finally, it has a circular maw filled rows of rectangular grinding teeth made of diamond. 
+
+## Powers
+
+### Burrowing {-}
+
+It burrows through snow, ice, ground, and rocks at high speeds.
+It consumes with its giant maw and pushes with its diamond hairs.
+
+## Attacks
+
+### Bite {-}
+
+4 harm, 1 target, mouth range
+
+### Hair scrape {-}
+
+2 harm, multiple targets, close range
+
+## Armour & harm capacity
+
+3 armour & 10 harm capacity
+
+## Weakness
+
+It is attracted to places with the Aurora Borealis lights.
+Otherwise it normally stays away from humans as it hunts bigger game like moose.
+
+Surprisingly it will die if it is too cold.
+Its diamond like hairs keep it insulated so destroying them will help.
+
+Ideas of what might work include:
+
+- Big magic to freeze it.
+- Getting it into a river of glacial water.
+- An ice thrower.
+
+Encourage the imagination of your hunters on how to carry this out.
+
