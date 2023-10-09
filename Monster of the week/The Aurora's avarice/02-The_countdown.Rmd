@@ -1,2 +1,17 @@
 # Countdown
 
+```{r, fig.align = 'center',out.width= '20%', echo=FALSE }
+knitr::include_graphics(path = "PNGs/sunset.png", auto_pdf = TRUE)
+``` 
+
+__Day__: More construction workers are killed by the snow worm.
+
+__Shadows__: The Bjorksons find out about Simone's snow worm scale.
+
+__Dusk__: The Bjorksons kidnap and kill Simone.
+
+__Sunset__: Elise the sheriff is killed by the Bjorksons using the worm as she investigates Simone's disappearance.
+
+__Nightfall__: A large aurora over the resort occurs. Many people are there to witness it. As the Aurora has a mirrored surface the worm attacks and destroys it killing many.
+
+__Midnight__: The worm escapes to warmer climates killing many across the Americas.

@@ -1,17 +1,22 @@
 # The Aurora
 
+```{r, fig.align = 'center',out.width= '20%', echo=FALSE }
+knitr::include_graphics(path = "PNGs/aurora_resort.png", auto_pdf = TRUE)
+``` 
+
 _Crossroads_: To bring people, and things, together.
 
 The Stylish brutalist architecture of the resort intensifies the beauty of the forest and mountain.
 Instead of concrete the boxy buildings are covered in mirrors with borders of undulating multicoloured leds, like a gamers keyboard.
 It must be a sight to behold when the Aurora is out.
 
-In sharp contrast the insides contain beautiful wood work all over the woodne ceilings, walls, and flooring.
+In sharp contrast the insides contain beautiful wood work all over the wooden ceilings, walls, and flooring.
 There are many electric fire pits.
 There are plenty of windows not visible to the outside as they are one way mirrors.
 
 All the amenities you can think of in a ski resort are present.
-As the owners, the Damans, asked for help the hunters have each been given a premium suite with full access to amenities.
+As the owners, the Damans, asked for help. 
+The hunters have each been given a premium suite with full access to amenities.
 It helps that it is the off season so it is quiet anyway.
 
 The place is heated by the natural hot water from the underground hot springs.
@@ -20,13 +25,15 @@ The place is heated by the natural hot water from the underground hot springs.
 
 _Skeptic_: To deny supernatural explanations.
 
-Ann (she/her) and Dan (he/him) Daman go around wearing blue and pink robes, when to jump in the spa or swimming pool at a moments notice.
+Ann (she/her) and Dan (he/him) Daman go around wearing blue and pink robes, ready to jump in the spa or swimming pool at a moments notice.
 They assure the hunters they would look a lot more professional in the busy season or with important people around.
 They are both very blond, white and beautiful, think Barbie and Ken.
 
 Dan likes to introduce himself as Dan Da Man.
 Ann gets very annoyed at this and says "It's pronounced Damon like Matt Damon, he visits every year".
 They of course like to name drop famous celebrities, feel free to use real people and/or make up ones.
+
+They will brag about the large Aurora that will occur in a couple weeks. They don't remember when as Dan kept track of those details.
 
 They are both separately and secretly embezzling.
 
@@ -44,24 +51,24 @@ Arnaq is aware of the Damans' embezzling and so will keep the hunters out of sno
 
 _Victim_: To put themselves in danger.
 
-Liam is as large as an elk. His chest hair bursts forth from the top of is plaid shirt. He could crush a watermelon with one of his large mitts. He rejoices in his strength and isn't afraid of anything, to his peril.
+Liam is as large as an elk. His chest hair bursts forth from the top of his plaid shirt. He could crush a watermelon with one of his large mitts. He rejoices in his strength and isn't afraid of anything, to his peril.
 
 Liam runs the hire & guide shop that is in the underground area of the resort. He will hire out snowmobiles, skis, etc. However, he will insist he guides the hunters if they explore the slopes/wilderness.
 
 He knows the mountains well and will be able to tell them about the avalanche 9 months ago and bring them to that general location.
 
-## Pluto (he/him), astronomy club leader
+## Pluto (he/him) & Jessabel (she/her)
 
 _Witness_: to reveal information
 
 Pluto is an older gentleman and town local who runs the Aurora's bar during the morning and afternoon. He wears a bright yellow snow jacket.
 He now takes care of his granddaughter Jessabel who he cares for very much.
 
-He will invite the hunters to the stargazing sessions that are run on the roof of the Aurora every night.
+He is also the astronomy club leader and will invite the hunters to the stargazing sessions that are run on the roof of the Aurora every night.
 
 Jeff Daman loved stargazing and bought all the fancy equipment the club uses.
 Some would see this as generosity but Pluto sees it as a way for Jeff to have free labour and expertise from club members.
-Either way it is stil good.
+Either way it is still good for Pluto.
 
 If the hunters play with Jessabel, Pluto will reveal that all the victims dies on nights when there should not have been an aurora but an aurora was sighted anyway.
 

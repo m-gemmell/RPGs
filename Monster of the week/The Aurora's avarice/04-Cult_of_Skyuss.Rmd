@@ -1,7 +1,11 @@
 # Cult of Skyuss
 
+```{r, fig.align = 'center',out.width= '20%', echo=FALSE }
+knitr::include_graphics(path = "PNGs/electirc car.png", auto_pdf = TRUE)
+``` 
+
 The Bjorksons run the electric mini transport in town, the Skifry Ski Lifts.
-They are the only form allowed in the town currently due to the narrow roads.
+They are the only form of transport allowed in the town currently due to the narrow roads.
 However, their monopoly may come to an end.
 This company is run by the six brothers who comprise the entire cult.
 
@@ -21,7 +25,7 @@ However, it is a worm so it does not see the Cult as anything more than somethin
 
 ## Motivation
 
-They have the three below motivations depending on the scenario for them.
+They have the four below motivations depending on the scenario for them.
 
 - _Scout_: to stalk, watch, and report.
   - They try to get info from people as they drive people around.
@@ -54,7 +58,7 @@ They give off a sickly sweet smell they try to mask with pine tree car air fresh
 - __Increased strength__
   - Although they don't look it their strength is similar to the strongest people in the world.
 - __Maw__
-  _ They have large circular mouths with rows of diamond teeth.
+  - They have large circular mouths with rows of diamond teeth.
 
 ## Weakness
 
@@ -73,4 +77,23 @@ They give off a sickly sweet smell they try to mask with pine tree car air fresh
 ## Harm capacity
 
 - 5 harm capacity. Although the transformation has made them stronger in ways it has also made them easier to kill due to their unnatural features.
+
+## Location: Bjorkson's compund
+
+_Deathtrap_: To harm intruders
+
+This compound is found on the outskirts of Skifry.
+It is completely surrounded by a large fence topped with razor wire.
+
+This contains a large building that acts as:
+
+- Bjorkson's home
+- Office
+- Vehicle workshop
+
+Around the side and back of the house is a temporary
+
+Behind the building is a dump where all trash is temporarily held before the Bjorkson's transport it further away.
+
+The Bjorkson's will bring any kidnapped individuals here.
 

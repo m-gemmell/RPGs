@@ -1,13 +1,18 @@
 # The Ice Worm
 
+```{r, fig.align = 'center',out.width= '20%', echo=FALSE }
+knitr::include_graphics(path = "PNGs/snow_rowm.png", auto_pdf = TRUE)
+``` 
+
 _Monster: Devourer, to consume people_
 
 The Juvenile Ice worm looks like a giant earthworm with a dark purple colouration.
-However, it has some traits that are belies this appearance.
+However, it has some traits that belies this appearance.
 
 It is massive at 10 metres long with a circumference of 0.5 metres.
 It is covered in thousands of thick needle like hairs of diamond.
-Finally, it has a circular maw filled rows of rectangular grinding teeth made of diamond. 
+Below these are dark purple scales.
+Finally, it has a circular maw filled with rows of rectangular grinding teeth made of diamond. 
 
 ## Powers
 
@@ -32,11 +37,12 @@ It consumes with its giant maw and pushes with its diamond hairs.
 
 ## Weakness
 
-It is attracted to places with the Aurora Borealis lights.
+- __Aurora attraction__
+  It is attracted to places with the Aurora Borealis lights.
 Otherwise it normally stays away from humans as it hunts bigger game like moose.
 
-Surprisingly it will die if it is too cold.
-Its diamond like hairs keep it insulated so destroying them will help.
+- __Cryophobic__
+  - Surprisingly it will die if it is too cold. Its diamond like hairs keep it insulated so destroying them will help.
 
 Ideas of what might work include:
 
@@ -45,4 +51,3 @@ Ideas of what might work include:
 - An ice thrower.
 
 Encourage the imagination of your hunters on how to carry this out.
-

@@ -1,4 +1,17 @@
+---
+title: "The Aurora's Avarice"
+author: "Matthew R. Gemmell"
+date: "`r Sys.Date()`"
+link-citations: yes
+favicon: PNGs/aurora.png
+cover-image: "PNGs/aurora.png"
+---
+
 # The Aurora's Avarice
+
+```{r, fig.align = 'center',out.width= '20%', echo=FALSE }
+knitr::include_graphics(path = "PNGs/aurora.png", auto_pdf = TRUE)
+``` 
 
 This is a [monster of the week](https://evilhat.com/product/monster-of-the-week/) mystery. 
 
@@ -9,15 +22,16 @@ This is all through investments by Veil resorts, a massive mountain resort compa
 The Daman siblings, owners of The Aurora are delighted by the investment and hope to sell the majority of their shares to retire early.
 
 Everyone else in the town are unhappy with the destruction of their snowy mountain life.
+Except for some who may be able to sell their houses for a high profit in the future.
 
 However, it is the Bjorksons that have caused the recent deaths. 
 If the building of new roads goes ahead in the town their business of electric taxis and transport will go bust, as the narrow roads ban all other powered forms of transport.
 They will lose their monopoly.
 
 They have transformed themselves into powerful human/ice worm hybrids by the consumption of Ice Worm eggs.
-Additionally, they lure the one Juvenile Ice Worm to their victims with a drone projecting lights like the Aurora Borealis.
+Additionally, they lure the one living Juvenile Ice Worm to their victims with a drone projecting lights like the Aurora Borealis.
 
-This Cult of Skyuss (Ski + Kyuss) has done little by killing road construction workers.
+This Cult of Skyuss (Ski + Kyuss) has accomplished little by killing road construction workers.
 However, they have recently had a win.
 Whilst transporting people around town they overheard that Jeff Daman (Ski resort family) was going skiing late at night.
 

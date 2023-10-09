@@ -1,0 +1,34 @@
+# The mountains
+
+```{r, fig.align = 'center',out.width= '20%', echo=FALSE }
+knitr::include_graphics(path = "PNGs/cave.png", auto_pdf = TRUE)
+```
+
+To face down the snow worm the hunters will most likely have to traverse into the mountains.
+
+## Ski slopes
+
+_Den_: to harbour monsters.
+
+Snowy and forested ski slopes.
+This is most likely where the Snow worm will attack as it is close to town so the Bjorksons can easily use their drone from their compound.
+
+## The mountains
+
+_Maze_: To confuse and separate
+
+The hunters will need to traverse the mountain wilderness to get to the cave of origins.
+There are steep cliffs, forests, and various caves.
+
+## Cave of origins
+
+This cave is about an hour out of town via snowmobile if you know where to look.
+It will probably take a while to find the place but shorter if they have a guide.
+
+This is the cave where the snow worm eggs were found by the Bjorksons.
+
+In this cave they can find the broken remains of 7 eggs (6 bjorksons who each ate an egg plus the living juvenile snow worm).
+
+Feel free to add some clue as to how the snow worms got to earth here. 
+An orange lemon by some petrified black roots in my case.
+

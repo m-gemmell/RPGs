@@ -1,5 +1,9 @@
 # Skifry
 
+```{r, fig.align = 'center',out.width= '20%', echo=FALSE }
+knitr::include_graphics(path = "PNGs/dragon.png", auto_pdf = TRUE)
+```
+
 _Hub_: to reveal information
 
 Town symbol is that of a purple dragon (wrym) on the snow with a beautiful Aurora Borealis in the sky.
@@ -14,7 +18,7 @@ A church of the Primeval deity Nyxmera. The two-faced deity of night and day. It
 
 The vast majority of the town attend this church.
 
-Note: In my world this relgion is normal, feel free to replace with a different church.
+Note: In my world this religion is normal, feel free to replace with a different church.
 
 ### Summer Night (she/her), cleric of Nyxmera
 
@@ -46,9 +50,29 @@ A morose tired man. Did the autopsies on the various victims. None of the bodies
 
 He doesn't like these murders and wants them to be stopped.
 
+## Simone's Antique's
+
+More a pawn shop than an antique place, no matter how much Simone says otherwise.
+
+### Simone
+
+_Victim_: To put themselves in danger.
+
+Simone's attire consists of a flowing baggy dress that glimmers like purple scales.
+She is obsessed with the legend of the purple dragon of Skyfry slain by the town's founder Georges.
+Her story is completely wrong.
+But she is currently very giddy and wanting to tell people of her discovery.
+
+She is very happy to talk with the hunters and show them the tubular diamond pieces (not realising they are diamonds) that she has been buying from Mr Plum.
+If the hunters humour her/manipulate her well she will show them her prized possession.
+
+In her freezer she keeps a frozen scale of the snow worm which has a tubular diamond coming from it.
+
+If she shows this to the hunters she will become a target of the Bjorkson's.
+
 ## Indeginous centre
 
-A centre to display the history of indigenious tribes of Canada.
+A centre to display the history of indigenous tribes of Canada.
 
 ### Charlie (they/them), curator and story teller
 
@@ -72,10 +96,23 @@ _Witness_: to reveal information
 A plumber with a large moustache and cap emblazoned with a plum.
 
 The hunters will most likely seem him multiple times around town as there are many plumbing issues.
-Little bits of diamonds are shredding water pipes. 
+Little bits of tubular diamonds are shredding water pipes. 
+He thinks it is is fibre optic cables somehow getting into the systems by the new internet lines that were installed.
 He will happily complain about this to anyone who asks.
+He sells them to Simone of Simone's antiques.
 
 These bits of diamonds are coming from the Ice worm which frequents the hot springs to keep warm.
+Only been appearing in the last months.
 
+### Sheriff Elise
 
+_Helper_: to join the hunt
 
+Elise's warm police uniform is immaculate.
+She obviously doesn't get much work even though she would love it.
+
+She will most likely search out the hunters if they attract too much attention. 
+She can be a good person to put suspicion on the Bjorksons by saying how they keep people quiet through transport blackmail.
+
+Elise feels she was assigned to this job because she is too competent and not corrupt enough.
+All she does is paperwork because the resort security do most things and get in her way.
